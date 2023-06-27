@@ -1,4 +1,4 @@
-alert('Hello, Osamu!);
+alert('Hello, Koya!);
 alert(1+1);
 alert(Match.sqrt(1+1));
 alert(Match.sqrt(2+3));
